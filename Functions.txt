@@ -1,0 +1,10 @@
+1. calculator
+Implement different functions:
+1. sum(x,y)
+2. substract(x,y)
+3. multiply(x,y)
+4. divide(x,y)
+Then show how your code works.
+
+Personal project.
+Create something useful and interesting using python functions.
