@@ -6,5 +6,27 @@ Implement different functions:
 4. divide(x,y)
 Then show how your code works.
 
-Personal project.
+2. Personal project.
 Create something useful and interesting using python functions.
+
+3. Triangle
+Make a triangle of stars,
+4. Triange
+Make a triangle of stars like:
+*
+**
+* *
+*  *
+*   *
+******
+5. Rectangle
+Make a rectangle of stars like:
+****
+****
+****
+
+and
+
+****
+*  *
+****
