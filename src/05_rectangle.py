@@ -5,7 +5,7 @@ bg = int(input(">>> "))
 for i in range(1, sm + 1):
     print("*" * bg)
 
-print ("------------")
+print("------------")
 
 
 print("*" * bg)
